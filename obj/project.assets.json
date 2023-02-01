@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectUniqueName": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
       "projectName": "ConsoleApplication",
-      "projectPath": "C:\\.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectPath": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
-      "outputPath": "C:\\.net\\ConsoleApplication\\obj\\",
+      "outputPath": "C:\\sudip.net\\ConsoleApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sudip.maji_oncehub\\AppData\\Roaming\\NuGet\\NuGet.Config",
