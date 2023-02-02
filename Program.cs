@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿int [] arr={2,5,1,7,3,9,67,10};
 // Array.Sort(arr);
 // foreach (int item in arr){
@@ -47,3 +48,35 @@ int n = arr.Length;
         for (int i=0;i<arr.Length;i++){
             System.Console.WriteLine(arr[i]);
         }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+using System.Collections.Generic;
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+
+byte number =2;
+Console.WriteLine(number);
+
+List<string> cars=new List<string>();
+cars.Add("Maruti");
+cars.Add("Suzuki");
+cars.Add("BMW");
+//  for (int i=0;i<cars.Count;i++){
+//     System.Console.WriteLine(cars[i]);
+//  }
+foreach(string car in cars){
+    System.Console.WriteLine(car);
+}
+
+string[] fruits={"apple","watermelon","grapes","peach","banana"};
+foreach(string a in fruits){
+    System.Console.WriteLine(a);
+}
+
+int[] num={1,2,3,4,5,6,7,8,9};
+foreach(int n in num){
+    System.Console.WriteLine(n);
+}
+
+>>>>>>> d6ddb3805dad68ea8a88e56db32cc6dcffc0d2b3
