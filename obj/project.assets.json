@@ -13,11 +13,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\sudip.net\\String\\String.csproj",
       "projectName": "String",
       "projectPath": "C:\\sudip.net\\String\\String.csproj",
       "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
       "outputPath": "C:\\sudip.net\\String\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\sudip.net\\Array-algo\\Array-algo.csproj",
+      "projectName": "Array-algo",
+      "projectPath": "C:\\sudip.net\\Array-algo\\Array-algo.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\Array-algo\\obj\\",
+=======
+      "projectUniqueName": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "projectName": "ConsoleApplication",
+      "projectPath": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
+      "packagesPath": "C:\\Users\\sudip.maji_oncehub\\.nuget\\packages\\",
+      "outputPath": "C:\\sudip.net\\ConsoleApplication\\obj\\",
+>>>>>>> d6ddb3805dad68ea8a88e56db32cc6dcffc0d2b3
+>>>>>>> a127730f1c4fd04de8e703b8a059c2848abf6b97
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sudip.maji_oncehub\\AppData\\Roaming\\NuGet\\NuGet.Config",
