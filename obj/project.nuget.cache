@@ -1,8 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "E/2WmdHsHms4M8NCuQVMoi/lmniztXlDk4URmnhpiFcYGh5Fu575fQVqBfd08xcM4U7WOFUdHkWJ1mC5mEASEw==",
   "success": true,
   "projectFilePath": "C:\\sudip.net\\Dictionary\\Test.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "I2JZQ0YH6iOyMRU68mX99GNTeBCUtgqs88WAxNXoebvoJdlE2160BYxfOGkwnoZPjTkiIP38pMhWo8YkoxCPxg==",
+  "success": true,
+  "projectFilePath": "C:\\sudip.net\\String\\String.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "lLHs8Aelem0ij1rmcH5wyonHWRdkQMefMW07Zc/4UTy9rp0UOw72Mh0KiEEWVb4Fxa4qtgDDqsimeO5WarmswA==",
+  "success": true,
+  "projectFilePath": "C:\\sudip.net\\Array-algo\\Array-algo.csproj",
+=======
+  "dgSpecHash": "uWZhn8ogURjMpN7wgLNEHtD0FyCv2bpEFD8WmqzLR0I2N8T35Ks/VW3wOfu6xqeHWBgnorXvSlV462xbUR/LoA==",
+  "success": true,
+  "projectFilePath": "C:\\sudip.net\\ConsoleApplication\\ConsoleApplication.csproj",
+>>>>>>> d6ddb3805dad68ea8a88e56db32cc6dcffc0d2b3
+>>>>>>> a127730f1c4fd04de8e703b8a059c2848abf6b97
+>>>>>>> 181501880500b66de71a10fd8c835984f4a6f770
   "expectedPackageFiles": [],
   "logs": []
 }
