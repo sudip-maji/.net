@@ -1,4 +1,19 @@
 <<<<<<< HEAD
+﻿
+using System;
+
+
+    System.Console.WriteLine("Enter a number");
+    string input1=Console.ReadLine();
+    int num1=Convert.ToInt32(input1);
+    System.Console.WriteLine("Enter second number");
+    string  input2=Console.ReadLine();
+    int num2=Convert.ToInt32(input2);
+    System.Console.WriteLine("this is the final ans " + num1+num2);
+    
+
+=======
+<<<<<<< HEAD
 ﻿// List<string> days=new List<string>();
 // days.Add("MONDAY");
 // days.Add("TUESDAY");
@@ -163,3 +178,4 @@ foreach(int n in num){
 >>>>>>> d6ddb3805dad68ea8a88e56db32cc6dcffc0d2b3
 >>>>>>> a127730f1c4fd04de8e703b8a059c2848abf6b97
 >>>>>>> 181501880500b66de71a10fd8c835984f4a6f770
+>>>>>>> f5147b8870738626a7fd1fc723e0a7e461038c39
