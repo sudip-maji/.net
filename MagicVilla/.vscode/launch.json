@@ -5,31 +5,14 @@
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
             // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
-<<<<<<< HEAD
-            "name": ".NET Core Launch (console)",
-=======
-<<<<<<< HEAD
             "name": ".NET Core Launch (web)",
-=======
-            "name": ".NET Core Launch (console)",
->>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
->>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-<<<<<<< HEAD
-            "program": "${workspaceFolder}/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.dll",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/MagicVilla.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConsoleApplication",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
-            "stopAtEntry": false
-=======
-<<<<<<< HEAD
-            "program": "${workspaceFolder}/MagicVilla/bin/Debug/net7.0/MagicVilla.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/MagicVilla",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {
@@ -42,15 +25,6 @@
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"
             }
-=======
-            "program": "${workspaceFolder}/bin/Debug/net7.0/ConsoleApplication.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
-            "stopAtEntry": false
->>>>>>> 05e6fca3af2047c74d3a89d31cdab1c53c57c885
->>>>>>> eb01a5eaa69edd001e3e35f7e0020090d060807a
         },
         {
             "name": ".NET Core Attach",
