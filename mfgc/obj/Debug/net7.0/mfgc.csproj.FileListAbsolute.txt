@@ -1,0 +1,15 @@
+C:\sudip.net\mfgc\bin\Debug\net7.0\mfgc.exe
+C:\sudip.net\mfgc\bin\Debug\net7.0\mfgc.deps.json
+C:\sudip.net\mfgc\bin\Debug\net7.0\mfgc.runtimeconfig.json
+C:\sudip.net\mfgc\bin\Debug\net7.0\mfgc.dll
+C:\sudip.net\mfgc\bin\Debug\net7.0\mfgc.pdb
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.csproj.AssemblyReference.cache
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.GeneratedMSBuildEditorConfig.editorconfig
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.AssemblyInfoInputs.cache
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.AssemblyInfo.cs
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.csproj.CoreCompileInputs.cache
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.dll
+C:\sudip.net\mfgc\obj\Debug\net7.0\refint\mfgc.dll
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.pdb
+C:\sudip.net\mfgc\obj\Debug\net7.0\mfgc.genruntimeconfig.cache
+C:\sudip.net\mfgc\obj\Debug\net7.0\ref\mfgc.dll

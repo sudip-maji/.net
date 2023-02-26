@@ -1,0 +1,15 @@
+C:\sudip.net\Operators\bin\Debug\net7.0\Operators.exe
+C:\sudip.net\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\sudip.net\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\sudip.net\Operators\bin\Debug\net7.0\Operators.dll
+C:\sudip.net\Operators\bin\Debug\net7.0\Operators.pdb
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.dll
+C:\sudip.net\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.pdb
+C:\sudip.net\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\sudip.net\Operators\obj\Debug\net7.0\ref\Operators.dll

@@ -1,0 +1,15 @@
+C:\sudip.net\C#test\bin\Debug\net7.0\C#test.exe
+C:\sudip.net\C#test\bin\Debug\net7.0\C#test.deps.json
+C:\sudip.net\C#test\bin\Debug\net7.0\C#test.runtimeconfig.json
+C:\sudip.net\C#test\bin\Debug\net7.0\C#test.dll
+C:\sudip.net\C#test\bin\Debug\net7.0\C#test.pdb
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.csproj.AssemblyReference.cache
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.GeneratedMSBuildEditorConfig.editorconfig
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.AssemblyInfoInputs.cache
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.AssemblyInfo.cs
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.csproj.CoreCompileInputs.cache
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.dll
+C:\sudip.net\C#test\obj\Debug\net7.0\refint\C#test.dll
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.pdb
+C:\sudip.net\C#test\obj\Debug\net7.0\C#test.genruntimeconfig.cache
+C:\sudip.net\C#test\obj\Debug\net7.0\ref\C#test.dll
